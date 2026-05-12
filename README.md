@@ -80,7 +80,7 @@ Analyze sales data to identify trends and improve overall business performance.
 
 ## 🛠️ Tools Used
 
-* Python (Pandas, NumPy, Matplotlib)
+* Python (Pandas, NumPy)
 * Power BI
 
 ---
